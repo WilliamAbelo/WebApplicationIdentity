@@ -1,8 +1,9 @@
 
 # Autenticação com Identiy 
 
-Projeto em Console Aplication criado para estudo de aplicação do Entity Framework Core.
+Projeto em Console Aplication criado para estudo de aplicação do Identity Entity Framework Core.
 - .Net 8
+- Identity
 - Entity Framework 8.0
 - Sql Server
 - User Secrets
